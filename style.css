@@ -1,0 +1,26 @@
+.hero {
+    background-color: #f8f9fa;
+    padding: 4rem 0;
+    margin-bottom: 2rem;
+}
+.section-title {
+    color: #2c3e50;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e9ecef;
+}
+.card {
+    height: 100%;
+    transition: transform 0.2s;
+}
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+.bg-light-blue {
+    background-color: #e3f2fd;
+}
+.list-group-item {
+    border-left: none;
+    border-right: none;
+}
